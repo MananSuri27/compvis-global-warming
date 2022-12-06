@@ -25,6 +25,7 @@ Gateway to Indian Earth Observatory
 Bhuvan is a geoportal developed by ISRO which has open-source geo-spacial data and allows users access to IRS (Remote Sensing) images.
 
 Platform:
+
 ![](https://cdn.discordapp.com/attachments/891317274936483871/1049830409778757632/image.png)
 
 It has a wide variety of data on different domains mapped across India. Some of the domains include:
@@ -34,6 +35,7 @@ It has a wide variety of data on different domains mapped across India. Some of 
 - Population analytics
 
 The data is sourced from different satellites including:
+
 ![](https://cdn.discordapp.com/attachments/891317274936483871/1049830440489467945/image.png)
 
 We will be working with a specific subset of maps:
