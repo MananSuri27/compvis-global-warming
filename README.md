@@ -12,7 +12,7 @@ Based on changes detected in satellite data, we want to predict the mean average
 
 ## Model Architecture:
 
-![Model Architecture](https://cdn.discordapp.com/attachments/891317274936483871/1049832847395000320/Lab.drawio.png
+![Model Architecture](https://cdn.discordapp.com/attachments/891317274936483871/1049832847395000320/Lab.drawio.png)
 
 
 The model is developed on PyTorch.
